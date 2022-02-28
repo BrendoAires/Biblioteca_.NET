@@ -1,0 +1,15 @@
+C:\Users\Noca\Desktop\Brendo\dotnet\DIO.Bibli\DIO.Biblioteca\bin\Debug\net6.0\DIO.Biblioteca.exe
+C:\Users\Noca\Desktop\Brendo\dotnet\DIO.Bibli\DIO.Biblioteca\bin\Debug\net6.0\DIO.Biblioteca.deps.json
+C:\Users\Noca\Desktop\Brendo\dotnet\DIO.Bibli\DIO.Biblioteca\bin\Debug\net6.0\DIO.Biblioteca.runtimeconfig.json
+C:\Users\Noca\Desktop\Brendo\dotnet\DIO.Bibli\DIO.Biblioteca\bin\Debug\net6.0\DIO.Biblioteca.dll
+C:\Users\Noca\Desktop\Brendo\dotnet\DIO.Bibli\DIO.Biblioteca\bin\Debug\net6.0\ref\DIO.Biblioteca.dll
+C:\Users\Noca\Desktop\Brendo\dotnet\DIO.Bibli\DIO.Biblioteca\bin\Debug\net6.0\DIO.Biblioteca.pdb
+C:\Users\Noca\Desktop\Brendo\dotnet\DIO.Bibli\DIO.Biblioteca\obj\Debug\net6.0\DIO.Biblioteca.csproj.AssemblyReference.cache
+C:\Users\Noca\Desktop\Brendo\dotnet\DIO.Bibli\DIO.Biblioteca\obj\Debug\net6.0\DIO.Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Noca\Desktop\Brendo\dotnet\DIO.Bibli\DIO.Biblioteca\obj\Debug\net6.0\DIO.Biblioteca.AssemblyInfoInputs.cache
+C:\Users\Noca\Desktop\Brendo\dotnet\DIO.Bibli\DIO.Biblioteca\obj\Debug\net6.0\DIO.Biblioteca.AssemblyInfo.cs
+C:\Users\Noca\Desktop\Brendo\dotnet\DIO.Bibli\DIO.Biblioteca\obj\Debug\net6.0\DIO.Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Noca\Desktop\Brendo\dotnet\DIO.Bibli\DIO.Biblioteca\obj\Debug\net6.0\DIO.Biblioteca.dll
+C:\Users\Noca\Desktop\Brendo\dotnet\DIO.Bibli\DIO.Biblioteca\obj\Debug\net6.0\ref\DIO.Biblioteca.dll
+C:\Users\Noca\Desktop\Brendo\dotnet\DIO.Bibli\DIO.Biblioteca\obj\Debug\net6.0\DIO.Biblioteca.pdb
+C:\Users\Noca\Desktop\Brendo\dotnet\DIO.Bibli\DIO.Biblioteca\obj\Debug\net6.0\DIO.Biblioteca.genruntimeconfig.cache
